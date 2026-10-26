@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>FaceGuard</title>
+    <item>
+      <title>FaceGuard 2.0</title>
+      <pubDate>Mon, 26 Oct 2026 17:21:47 -0500</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Perfiles por lugar y horario</b> (Casa, Trabajo, Fuera…), cada uno con su nivel de exigencia.</li><li><b>Apps protegidas con tu cara</b>: sus ventanas quedan tapadas hasta que te reconoce; la app sigue viva (mensajes y llamadas).</li><li><b>Aprende cómo escribes y mueves el mouse</b> (solo tiempos, nunca qué teclas): si es otro ritmo y no te ve, el teclado deja de contar como tú.</li><li><b>Cuida tus contraseñas</b>: si hay alguien cerca mientras escribes una, te avisa y tapa la pantalla.</li><li><b>Detecta teléfonos apuntando a tu pantalla</b> (YOLOX, sin conexión).</li><li><b>Prestar la Mac</b> sin que se bloquee, con tus apps y avisos protegidos.</li><li><b>Historial de uso</b>: tu rato frente a la Mac y lo que vio FaceGuard.</li><li><b>Tus audífonos o tu teléfono por Bluetooth</b>: bloquea al alejarte con ellos.</li><li><b>La música de cualquier app en el notch</b> (TIDAL, el navegador…), con portada y controles.</li><li><b>Modo ahorro de batería</b> y un motor un 40 % más liviano.</li><li><b>Actualizaciones automáticas</b> (esta es la primera versión que las trae).</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.0/FaceGuard-2.0.zip" type="application/octet-stream" sparkle:edSignature="5Kjuh/g1DoMDwwRgLUxrTC6OZ+2xN9/aey+f9seKFkm+8E++aCr//vP135MDzlbzueHvAuGExMO52NdjiTlACw==" length="368377341"/>
+    </item>
+  </channel>
+</rss>
