@@ -1,3 +1,5 @@
+<p align="center"><img src="icono.png" width="128" alt="Ícono de FaceGuard"></p>
+
 # FaceGuard · versiones
 
 Aquí se publican los instaladores de **FaceGuard** y la lista de versiones (`appcast.xml`) que usan las
