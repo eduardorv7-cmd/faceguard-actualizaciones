@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.2</title>
+      <pubDate>Tue, 27 Oct 2026 18:11:50 -0500</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Tu familia ya no abre tu Mac</b>: si registras en Caras de confianza a alguien que se te parece (un hermano, por ejemplo), FaceGuard los distingue y solo te abre a ti. También olvida lo que haya aprendido con esa persona delante.</li><li><b>Se abre con tu cara aunque solo se apague la pantalla</b>, si macOS pide la contraseña de inmediato. Y si FaceGuard se reinicia con la Mac bloqueada, igual te abre al volver.</li><li><b>El espejo del notch usa la cámara de la Mac</b>: ya no sale negro cuando hay un iPhone cerca.</li><li><b>Notch nuevo</b>: de vidrio o negro, con cuatro controles en Ajustes → Comodidad para dejarlo a tu gusto.</li><li><b>Música con letra</b>: la portada a la izquierda, una onda del color de la canción y un reproductor grande con la letra sincronizada. No se abre solo si ya estás en la app que suena.</li><li><b>Clima grande</b> con el cielo en video, pronóstico por horas y de 7 días, y lluvia con relámpagos.</li><li><b>Módulos debajo del notch</b>: bandeja de archivos con AirDrop, tus recordatorios y el agua del día, traducir con Ollama y tus sesiones de Claude Code.</li><li><b>Ícono nuevo</b> y Ajustes con íconos de colores.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.2/FaceGuard-2.2.zip" type="application/octet-stream" sparkle:edSignature="3N9bR+wwvdmdFUAm6z2kQDO0idRcNr14ojQhZdb9p5tTFOCZa+3JfRgxGpvl29elA59FStcW3hfUzFcU6QBQCA==" length="538488532"/>
+    </item>
+    <item>
       <title>FaceGuard 2.1</title>
       <pubDate>Mon, 26 Oct 2026 23:35:38 -0500</pubDate>
       <sparkle:version>34</sparkle:version>
