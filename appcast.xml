@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.3.2</title>
+      <pubDate>Tue, 27 Oct 2026 21:53:50 -0500</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>2.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Los íconos de Ajustes siempre cargan</b>: si alguno falla al abrir la ventana, se vuelve a pedir solo.</li><li><b>Abrir con tu cara</b>: una foto o una pantalla con una cara ya no cuenta como otra persona. Si hay otra persona de verdad frente a la cámara, FaceGuard sigue sin escribir tu contraseña.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.3.2/FaceGuard-2.3.2.zip" type="application/octet-stream" sparkle:edSignature="LTfWdAL8Lz+d3P318ng3eA7InqYo19u5S6c+qVUQI+WJuWo8x6b9zNIaFyE/0TgxIXYawJZQjK2g375dRfKbDw==" length="538578314"/>
+    </item>
+    <item>
       <title>FaceGuard 2.3.1</title>
       <pubDate>Tue, 27 Oct 2026 21:26:29 -0500</pubDate>
       <sparkle:version>39</sparkle:version>
