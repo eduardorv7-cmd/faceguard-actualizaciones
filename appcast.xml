@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.2.1</title>
+      <pubDate>Tue, 27 Oct 2026 19:08:17 -0500</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>La versión a la vista</b>: abajo en la barra de Ajustes ves qué versión tienes y un botón para buscar actualizaciones. Si hay una nueva, el botón te la ofrece con su número.</li><li><b>«Buscar actualización» también en el menú FaceGuard</b> (arriba a la izquierda, con Ajustes abierto), por si el ícono de la barra de menús queda detrás del notch.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.2.1/FaceGuard-2.2.1.zip" type="application/octet-stream" sparkle:edSignature="ijIIkNApl5szzUKqIbtiw+GIDio+HdDbA0Biy2RvpOokGvElcPrcJp0EoJa4MqfJ1ouhNpOPlGdgAZ0ijf35BA==" length="538494791"/>
+    </item>
+    <item>
       <title>FaceGuard 2.2</title>
       <pubDate>Tue, 27 Oct 2026 18:11:50 -0500</pubDate>
       <sparkle:version>35</sparkle:version>
