@@ -2,11 +2,21 @@
 
 # FaceGuard · versiones
 
+<p align="center">
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/eduardorv7-cmd/faceguard-actualizaciones?label=versi%C3%B3n" alt="Última versión"></a>
+  <a href="../../releases"><img src="https://img.shields.io/github/downloads/eduardorv7-cmd/faceguard-actualizaciones/total?label=descargas" alt="Descargas"></a>
+</p>
+
 Aquí se publican los instaladores de **FaceGuard** y la lista de versiones (`appcast.xml`) que usan las
 actualizaciones automáticas de la app. El código de FaceGuard no está aquí.
 
 FaceGuard vigila con la cámara de tu Mac (todo se procesa en tu Mac): la bloquea cuando te vas, la abre
-cuando vuelves, tapa la pantalla si alguien más la mira y protege tus apps con tu cara.
+cuando vuelves, tapa la pantalla si alguien más la mira y protege tus apps con tu cara. En el notch tiene
+además tu música con letra, el clima, el calendario, notas, una bandeja con AirDrop y respuestas rápidas a
+tus mensajes.
+
+<p align="center"><img src="notch.png" width="900" alt="El notch de FaceGuard: widgets, reproductor, notas, responder mensajes y una cara desconocida"></p>
+<p align="center"><sub>Capturas con datos de ejemplo.</sub></p>
 
 ## Instalar
 
@@ -16,6 +26,11 @@ cuando vuelves, tapa la pantalla si alguien más la mira y protege tus apps con 
 3. Después se actualiza sola (o desde el menú: **Buscar actualizaciones…**).
 
 Necesita una Mac con Apple Silicon y macOS 14 o más nuevo.
+
+## Problemas o ideas
+
+Desde la app: menú de FaceGuard → **Reportar un problema o una idea…** (o abajo en Ajustes). Se abre tu
+correo con el mensaje listo y tú decides si enviarlo.
 
 ## Licencias
 
