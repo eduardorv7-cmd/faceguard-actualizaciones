@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.3.1</title>
+      <pubDate>Tue, 27 Oct 2026 21:26:29 -0500</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Abrir con tu cara vuelve a escribir la contraseña</b>: FaceGuard ya no pierde los permisos al actualizarse. Después de instalar esta versión, dale el permiso de Accesibilidad una última vez (FaceGuard te avisa y te abre la ventana; si en Ajustes ya aparece encendido, apágalo y vuelve a encenderlo). Si macOS pregunta por el Llavero, toca «Permitir siempre».</li><li><b>Un cuadro o un póster ya no impide abrir con tu cara</b>: solo cuentan las personas de verdad frente a la cámara.</li><li><b>Traducir y resumir dentro de tu Mac</b>: el módulo Traducir usa el traductor de Apple y resume con Apple Intelligence. Gratis y sin mandar tu texto a ningún lado.</li><li>Reconocimiento y actualizaciones al día (UniFace 4.2.1, Sparkle 2.10.1).</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.3.1/FaceGuard-2.3.1.zip" type="application/octet-stream" sparkle:edSignature="cx+ILEUNRd5cRyrtTXZDXFUcNcXnfaEbexdCMN182LUL1KT0iQ5OOaOfBQDE3+RYkSTQ7MvKEIQoMRRq71sXDg==" length="538580201"/>
+    </item>
+    <item>
       <title>FaceGuard 2.3</title>
       <pubDate>Tue, 27 Oct 2026 20:47:40 -0500</pubDate>
       <sparkle:version>38</sparkle:version>
