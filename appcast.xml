@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.3</title>
+      <pubDate>Tue, 27 Oct 2026 20:47:40 -0500</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Brillo extra en MacBook Pro con pantalla XDR</b>: con el brillo al 100 %, sigue subiéndolo con las teclas y la pantalla da más luz, como con los videos HDR. Actívalo en Ajustes → Comodidad. Se apaga solo con batería baja, en modo de bajo consumo o si la Mac se calienta.</li><li><b>La bandeja del notch recibe archivos</b>: arrástralos hacia el notch y suéltalos, o toca la bandeja para elegirlos. Después, AirDrop, comprimir o arrastrarlos a otra app.</li><li><b>FaceGuard busca actualizaciones cada vez que arranca</b> y te avisa en el notch si hay una versión nueva.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.3/FaceGuard-2.3.zip" type="application/octet-stream" sparkle:edSignature="ojyAygOnXjrlT52fQTYDK2aI6k9NAxCitvg40I5tOqUjwNzfTiVVSPSapwRfjnCrF1yuu4d4ZnB5PEKrfyLQAQ==" length="538528623"/>
+    </item>
+    <item>
       <title>FaceGuard 2.2.1</title>
       <pubDate>Tue, 27 Oct 2026 19:08:17 -0500</pubDate>
       <sparkle:version>36</sparkle:version>
