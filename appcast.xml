@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.4.2</title>
+      <pubDate>Wed, 28 Oct 2026 21:58:27 -0500</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Volumen y brillo en el notch</b>: con sus teclas, el notch crece un poco con una barra, en lugar del aviso de macOS. El volumen se pone rojo al 100 %. Se puede apagar en Ajustes → Notch.</li><li><b>Lo que conectas, en el notch</b>: AirPods y audífonos (cada lado y el estuche, con su batería), mandos de PS4, PS5 o Xbox con su logo y batería, parlantes, teclados y mouse. También avisa al desconectarlos. La primera vez macOS pide el permiso de Bluetooth.</li><li><b>Calendario en rueda</b>: el día elegido va al centro, en azul y más grande. Toca otro día o desliza para moverte.</li><li><b>Aviso al volver más discreto</b>: una fila pequeña con «Hola de nuevo» y cuánto estuviste fuera, que se va sola. En Ajustes → Notch eliges discreto, completo o apagado. Si pasó algo mientras no estabas, el aviso completo sale igual.</li><li><b>Reportar un problema</b>: en el menú de FaceGuard y abajo en Ajustes.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.4.2/FaceGuard-2.4.2.zip" type="application/octet-stream" sparkle:edSignature="kDOmavYXiyibWafuwZGo0/ey6OQymMa2IwR0tuiA2zz5hSlPf+ejz7Q6drbGDcVz4l1Ctg9zYP22xCe05jsbCQ==" length="538900271"/>
+    </item>
+    <item>
       <title>FaceGuard 2.4.1</title>
       <pubDate>Wed, 28 Oct 2026 08:29:29 -0500</pubDate>
       <sparkle:version>42</sparkle:version>
