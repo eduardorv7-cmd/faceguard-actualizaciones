@@ -12,8 +12,8 @@ actualizaciones automáticas de la app. El código de FaceGuard no está aquí.
 
 FaceGuard vigila con la cámara de tu Mac (todo se procesa en tu Mac): la bloquea cuando te vas, la abre
 cuando vuelves, tapa la pantalla si alguien más la mira y protege tus apps con tu cara. En el notch tiene
-además tu música con letra, el clima, el calendario, notas, una bandeja con AirDrop y respuestas rápidas a
-tus mensajes.
+además tu música con letra, el clima, el calendario, notas, una bandeja con AirDrop, respuestas rápidas a
+tus mensajes, el volumen y el brillo, y lo que conectas (AirPods, mandos de PS4, PS5 o Xbox) con su batería.
 
 <p align="center"><img src="notch.png" width="900" alt="El notch de FaceGuard: widgets, reproductor, notas, responder mensajes y una cara desconocida"></p>
 <p align="center"><sub>Capturas con datos de ejemplo.</sub></p>
@@ -29,7 +29,7 @@ Necesita una Mac con Apple Silicon y macOS 14 o más nuevo.
 
 ## Problemas o ideas
 
-Desde la app: menú de FaceGuard → **Reportar un problema o una idea…** (o abajo en Ajustes). Se abre tu
+Desde la app: menú de FaceGuard → **Reportar un problema…** (o abajo en Ajustes). Se abre tu
 correo con el mensaje listo y tú decides si enviarlo.
 
 ## Licencias
