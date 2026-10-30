@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.4.3</title>
+      <pubDate>Fri, 30 Oct 2026 13:01:13 -0500</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Se actualiza sola</b>: las versiones nuevas se bajan solas y se instalan mientras no estás frente a la Mac. Si prefieres decidir tú, se apaga en Ajustes → Comodidad.</li><li><b>Micrófono en uso</b>: si una app usa el micrófono, sale un punto naranja junto al ojo y, al empezar, su nombre debajo de la cámara.</li><li><b>Batería baja de lo que conectas</b>: el notch avisa cuando a los AirPods, audífonos, mandos o teclados les queda poca batería.</li><li><b>Ajustes con imágenes</b>: cada opción del notch muestra cómo se ve antes de elegirla.</li><li><b>Reportes de fallos</b>: si algo falla, se envía un reporte técnico para arreglarlo (versión, modelo de Mac y dónde falló, sin datos personales). Se apaga en Ajustes → Privacidad.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.4.3/FaceGuard-2.4.3.zip" type="application/octet-stream" sparkle:edSignature="1l/7BIjH/OOX37N30ipf1+AflAgDc2Gq2pJoUKzE5BSdOdkW96VaFYLROnGbA1Sakhl1KN2VxRa0pkzoWy9TAQ==" length="539520090"/>
+    </item>
+    <item>
       <title>FaceGuard 2.4.2</title>
       <pubDate>Wed, 28 Oct 2026 21:58:27 -0500</pubDate>
       <sparkle:version>43</sparkle:version>
