@@ -23,14 +23,22 @@ tus mensajes, el volumen y el brillo, y lo que conectas (AirPods, mandos de PS4,
 1. Descarga `FaceGuard-<versión>.pkg` de la [última versión](../../releases/latest).
 2. Ábrelo. La app no está firmada con una cuenta de desarrollador de Apple: si macOS no la deja abrir, ve a
    **Ajustes del Sistema → Privacidad y seguridad** y toca **Abrir de todas formas**.
-3. Después se actualiza sola (o desde el menú: **Buscar actualizaciones…**).
+3. Después se actualiza sola: baja la versión nueva y la instala mientras no estás frente a la Mac. Se puede
+   apagar en Ajustes → Comodidad.
 
 Necesita una Mac con Apple Silicon y macOS 14 o más nuevo.
 
-## Problemas o ideas
+## Problemas
 
 Desde la app: menú de FaceGuard → **Reportar un problema…** (o abajo en Ajustes). Se abre tu
 correo con el mensaje listo y tú decides si enviarlo.
+
+## Privacidad
+
+Todo el reconocimiento corre en tu Mac. Si algo falla, y cuando FaceGuard se instala o se actualiza, se envía
+un reporte técnico: la versión, el modelo de Mac, el chip, macOS y en qué parte del código pasó. Sin tu nombre,
+sin el nombre de la Mac, sin IP ni ubicación, y nada de tu cara, tus fotos o lo que haces. No se guarda: solo se
+reenvía por correo. Se apaga en Ajustes → Privacidad.
 
 ## Licencias
 
