@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.4.4</title>
+      <pubDate>Fri, 30 Oct 2026 13:46:57 -0500</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>2.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Micrófono en uso</b>: Siri ya no cuenta como una app usando el micrófono. Con Siri activa salía el punto naranja sin que nadie lo usara.</li><li><b>Mostrar el notch solo cuando haya algo</b> (Ajustes → Notch): el notch no se queda a la vista; sale con un aviso, una llamada o el volumen, y se va solo, también a pantalla completa. Para abrirlo, pasa el mouse por el notch.</li><li><b>A pantalla completa el notch se esconde bien</b> en las Mac con notch: antes no reconocía los videos en el navegador.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.4.4/FaceGuard-2.4.4.zip" type="application/octet-stream" sparkle:edSignature="7928m5lGoT3OstZ4Yls+gwwbt0MkGHGhbfH0JqwR69Fi1uGzqdOOE+JxeCntuQoKT4CYp2YgiWeaNCbOQtllBg==" length="539526853"/>
+    </item>
+    <item>
       <title>FaceGuard 2.4.3</title>
       <pubDate>Fri, 30 Oct 2026 13:01:13 -0500</pubDate>
       <sparkle:version>44</sparkle:version>
