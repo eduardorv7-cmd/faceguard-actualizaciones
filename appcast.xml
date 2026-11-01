@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.4.5</title>
+      <pubDate>Sat, 31 Oct 2026 21:21:49 -0500</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>2.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Las actualizaciones se instalan apenas salen</b>, estés o no frente a la Mac, para que siempre tengas los arreglos de seguridad. FaceGuard se reinicia unos segundos. Se puede apagar en Ajustes → Comodidad.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.4.5/FaceGuard-2.4.5.zip" type="application/octet-stream" sparkle:edSignature="6KbuRobSWORBKMqE8cgP8tw14s4bExj1oaVHb0DZxgiJEkM2QTLhU/zoFm8kvTCuwCUzxf3avcvjN7SAM9uBDQ==" length="539527614"/>
+    </item>
+    <item>
       <title>FaceGuard 2.4.4</title>
       <pubDate>Fri, 30 Oct 2026 13:46:57 -0500</pubDate>
       <sparkle:version>45</sparkle:version>
