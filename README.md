@@ -23,8 +23,8 @@ tus mensajes, el volumen y el brillo, y lo que conectas (AirPods, mandos de PS4,
 1. Descarga `FaceGuard-<versión>.pkg` de la [última versión](../../releases/latest).
 2. Ábrelo. La app no está firmada con una cuenta de desarrollador de Apple: si macOS no la deja abrir, ve a
    **Ajustes del Sistema → Privacidad y seguridad** y toca **Abrir de todas formas**.
-3. Después se actualiza sola: baja la versión nueva y la instala mientras no estás frente a la Mac. Se puede
-   apagar en Ajustes → Comodidad.
+3. Después se actualiza sola: baja la versión nueva y la instala apenas sale, para que siempre tengas los
+   arreglos de seguridad. Se puede apagar en Ajustes → Comodidad.
 
 Necesita una Mac con Apple Silicon y macOS 14 o más nuevo.
 
