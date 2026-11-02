@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.4.6</title>
+      <pubDate>Mon, 02 Nov 2026 16:27:34 -0500</pubDate>
+      <sparkle:version>47</sparkle:version>
+      <sparkle:shortVersionString>2.4.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Modo juego</b> (Ajustes → Comodidad): con un juego a pantalla completa, la cámara y el reconocimiento se pausan para dejarle el procesador, y vuelven solos al cerrarlo.</li><li><b>Las llamadas de WhatsApp saltan en el notch</b>: antes podía no salir el ícono mientras sonaba.</li><li><b>Novedades</b>: después de actualizarse, el notch cuenta qué trae la versión. La lista está en el menú de FaceGuard y abajo en Ajustes.</li><li><b>Brillo extra XDR</b>: al desconectar el cable ya no se queda trabado.</li><li><b>Con «Mostrar el notch solo cuando haya algo»</b> sale solo lo que llega, sin el escudo al lado, también con las llamadas a pantalla completa.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.4.6/FaceGuard-2.4.6.zip" type="application/octet-stream" sparkle:edSignature="We2OL3povX9eWSV5Py3jn1mMUai2RBKhRx7nLULczz+Yk3Gk+4ZH6vTvXBDqIa3tEu8ptmzsOiz6kIIUDqvfAQ==" length="539544412"/>
+    </item>
+    <item>
       <title>FaceGuard 2.4.5</title>
       <pubDate>Sat, 31 Oct 2026 21:21:49 -0500</pubDate>
       <sparkle:version>46</sparkle:version>
