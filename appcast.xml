@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.4.7</title>
+      <pubDate>Mon, 02 Nov 2026 19:12:34 -0500</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>2.4.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Alarma antirrobo por perfil</b> (Ajustes → Perfiles): con la Mac bloqueada, si quitan el cable de carga o conectan o quitan un USB, toma una foto y 10 segundos de video con sonido, suena al máximo y avisa a tu Telegram y a tu correo con la ubicación. Actívala solo en los perfiles que quieras, como Fuera. Si la cámara te acaba de ver, no suena.</li><li><b>FaceGuard ahora puede escuchar, solo por tu seguridad</b>: el video de la alarma lleva sonido si das el permiso de Micrófono (menú de FaceGuard → Permisos). Solo graba esos 10 segundos; sin el permiso, el video sale sin sonido.</li><li><b>Alerta en rojo al abrir la Mac</b>: si algo pasó mientras estaba bloqueada, el notch te lo muestra apenas la abres.</li><li><b>Correo de alerta</b> (Ajustes → Avisos y Telegram): la foto y el video te quedan en tu correo, por si no tienes el teléfono a mano. También en Desconocidos, con el botón Ver video.</li><li><b>Llamadas de WhatsApp</b>: el ícono del notch se va al contestar.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.4.7/FaceGuard-2.4.7.zip" type="application/octet-stream" sparkle:edSignature="h8lAaYnbUZA+UEDLrS4Ah88sT/mzKOJTES2X65q4Ueg136y3nBsAmPr6/GeaU0He2DBvaKOTmKTiiOB6PfdQCA==" length="539581704"/>
+    </item>
+    <item>
       <title>FaceGuard 2.4.6</title>
       <pubDate>Mon, 02 Nov 2026 16:27:34 -0500</pubDate>
       <sparkle:version>47</sparkle:version>
