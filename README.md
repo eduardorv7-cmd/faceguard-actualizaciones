@@ -40,6 +40,12 @@ un reporte técnico: la versión, el modelo de Mac, el chip, macOS y en qué par
 sin el nombre de la Mac, sin IP ni ubicación, y nada de tu cara, tus fotos o lo que haces. No se guarda: solo se
 reenvía por correo. Se apaga en Ajustes → Privacidad.
 
+FaceGuard sí escucha, por tu seguridad, pero solo en un momento: si activas la alarma antirrobo, salta, y le diste
+el permiso de Micrófono, graba 10 segundos de sonido para el video que te manda, y así queda registro de quién tocó
+tu Mac. En ningún otro momento usa el micrófono. La foto, ese video y la ubicación van solo a tu Telegram y a tu
+correo. Sin el permiso, el video sale sin sonido; puedes quitarlo en **Ajustes del Sistema → Privacidad y seguridad
+→ Micrófono**.
+
 ## Licencias
 
 FaceGuard (MIT). Lleva dentro DynamicNotchKit (MIT), mediaremote-adapter (BSD-3-Clause), Sparkle (MIT),
