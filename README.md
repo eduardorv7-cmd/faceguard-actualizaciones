@@ -13,7 +13,8 @@ actualizaciones automáticas de la app. El código de FaceGuard no está aquí.
 FaceGuard vigila con la cámara de tu Mac (todo se procesa en tu Mac): la bloquea cuando te vas, la abre
 cuando vuelves, tapa la pantalla si alguien más la mira y protege tus apps con tu cara. En el notch tiene
 además tu música con letra, el clima, el calendario, notas, una bandeja con AirDrop, respuestas rápidas a
-tus mensajes, el volumen y el brillo, y lo que conectas (AirPods, mandos de PS4, PS5 o Xbox) con su batería.
+tus mensajes, el volumen y el brillo, lo que conectas (AirPods, mandos de PS4, PS5 o Xbox) con su batería, y un
+espejo que toma fotos con temporizador o haciendo ✌️ a la cámara.
 
 <p align="center"><img src="notch.png" width="900" alt="El notch de FaceGuard: widgets, reproductor, notas, responder mensajes y una cara desconocida"></p>
 <p align="center"><sub>Capturas con datos de ejemplo.</sub></p>
@@ -45,6 +46,10 @@ el permiso de Micrófono, graba 10 segundos de sonido para el video que te manda
 tu Mac. En ningún otro momento usa el micrófono. La foto, ese video y la ubicación van solo a tu Telegram y a tu
 correo. Sin el permiso, el video sale sin sonido; puedes quitarlo en **Ajustes del Sistema → Privacidad y seguridad
 → Micrófono**.
+
+Si dejas encendido **Seguir a la Mac después de la alarma**, y nadie la abre, se siguen mandando fotos y la ubicación a
+tu Telegram y a tu correo: a los 2, 4, 9 y 19 minutos, luego cada 15 minutos hasta un día, y en cuanto cambia de red. Se
+acaba al abrirla y se apaga en Ajustes → Perfiles. Las fotos del espejo se quedan en tu Mac salvo que tú las compartas.
 
 ## Licencias
 
