@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.4.8</title>
+      <pubDate>Mon, 02 Nov 2026 20:37:16 -0500</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>2.4.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Fotos en el espejo</b>: el espejo ahora está en la fila de módulos del notch, junto a música, clima y calendario. Ábrelo y toca <b>Foto</b>. Sale una tarjeta por debajo del notch, se revela poco a poco y lleva la fecha escrita a mano. Sale a la resolución completa de tu cámara. Puedes guardarla en Imágenes/FaceGuard, copiarla o <b>compartirla</b> por AirDrop, WhatsApp, Mensajes, Mail y lo que tenga tu Mac; nada se guarda solo.</li><li><b>Temporizador y ✌️</b>: el reloj del espejo cuenta 3 o 10 segundos, y si enciendes ✌️ basta con hacerle ese gesto a la cámara.</li><li><b>Temas para la tarjeta</b>: Clásica, Noche, Retro, Blanco y negro y Sin marco, solo la foto.</li><li><b>Seguir a la Mac después de la alarma</b>: si nadie la abre, te sigue mandando foto y ubicación, y te avisa en cuanto cambia de red. Se acaba al abrirla y se apaga en Ajustes → Perfiles.</li><li><b>Mucha menos memoria</b>: el motor bajó de unos 3 GB a menos de 1,3 GB, sin perder velocidad ni precisión.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.4.8/FaceGuard-2.4.8.zip" type="application/octet-stream" sparkle:edSignature="YpqafuAGIWYMH11AS6ZuDxV4nJO4+EOc6DDHkIto11keAwF41dpGNFIk/1g2Tjkz1bEDYGE8LvKsUYk7kbsEAw==" length="539646039"/>
+    </item>
+    <item>
       <title>FaceGuard 2.4.7</title>
       <pubDate>Mon, 02 Nov 2026 19:12:34 -0500</pubDate>
       <sparkle:version>48</sparkle:version>
