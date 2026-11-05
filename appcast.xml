@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.4.11</title>
+      <pubDate>Wed, 04 Nov 2026 20:28:15 -0500</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>2.4.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Privacidad en vivo en el espejo</b>: un botón nuevo (el ojo tachado) difumina en vivo a quien no seas tú, como «Difuminar a los demás» en la foto, pero en movimiento. Tú sales normal; los demás, borrosos.</li><li><b>Grabar video en el espejo</b>: graba un video con sonido y compártelo por AirDrop, Mensajes, WhatsApp y más. Con la privacidad encendida, los demás salen difuminados también en el video.</li><li><b>La malla en todas las caras</b>: si hay más de una persona frente a la cámara, la malla las sigue a todas, no solo a la más grande.</li><li><b>Máxima privacidad más fácil</b>: ahora la enciendes y la apagas con un toque desde el notch (toca el perfil → «Máxima»). Elegir cualquier perfil también la quita.</li><li><b>Fotos del espejo sin tapar</b>: la tarjeta de la foto sale debajo de la barra del notch, así los filtros ya no te tapan el pelo.</li><li><b>El aviso «Haz ✌️ para la foto»</b> ahora sale unos segundos y se va, en vez de quedarse siempre a la vista.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.4.11/FaceGuard-2.4.11.zip" type="application/octet-stream" sparkle:edSignature="wVtchqiMHA4s5BTJataFTfmu1QWxgj4cPZdUFwWqH6zf/X6SowBs9PeZFkYWbEvjd+J465aixA4BhwrFKHE3BQ==" length="605965780"/>
+    </item>
+    <item>
       <title>FaceGuard 2.4.10</title>
       <pubDate>Wed, 04 Nov 2026 00:47:01 -0500</pubDate>
       <sparkle:version>51</sparkle:version>
