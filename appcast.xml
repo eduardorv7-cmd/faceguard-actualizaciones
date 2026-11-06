@@ -3,6 +3,15 @@
   <channel>
     <title>FaceGuard</title>
     <item>
+      <title>FaceGuard 2.4.12</title>
+      <pubDate>Fri, 06 Nov 2026 10:59:23 -0500</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>2.4.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Videollamadas sin trabones</b>: mientras usas la cámara en una videollamada (WhatsApp, FaceTime, Zoom, Meet…), FaceGuard le deja la cámara a la llamada para que <b>tu video no se trabe</b>, y vuelve a vigilar sola al colgar.</li></ul>]]></description>
+      <enclosure url="https://github.com/eduardorv7-cmd/faceguard-actualizaciones/releases/download/v2.4.12/FaceGuard-2.4.12.zip" type="application/octet-stream" sparkle:edSignature="ecCVzLIhOs/s0dG+mEjKZ2Y06DgFnGO6YEvAr8sQzg3c4AmapHgicWcbf6hPl85gyWNWuwCxxQv5WzUhYwNfBg==" length="605971143"/>
+    </item>
+    <item>
       <title>FaceGuard 2.4.11</title>
       <pubDate>Wed, 04 Nov 2026 20:28:15 -0500</pubDate>
       <sparkle:version>52</sparkle:version>
